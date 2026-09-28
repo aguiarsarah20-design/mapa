@@ -11,7 +11,8 @@ config_version=5
 [application]
 
 config/name="Mapa"
-config/features=PackedStringArray("4.7", "Forward Plus")
+run/main_scene="uid://cakdty1swy37"
+config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
